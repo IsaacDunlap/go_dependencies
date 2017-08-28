@@ -1,0 +1,2 @@
+standardLibraryPath: /usr/local/Cellar/go/1.8.3/libexec/src
+vendorRelPath: vendor
